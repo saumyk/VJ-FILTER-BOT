@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'DS Backup')
 API_ID = int(environ.get('API_ID', '5604474'))
 API_HASH = environ.get('API_HASH', '45425c2c16f2c177c71b5748fb87c3ad')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7580526983:AAFGyURzN7l2VKEuikZDnk4RWhYtiQ4XIWo")
+BOT_TOKEN = environ.get('BOT_TOKEN', " ")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
